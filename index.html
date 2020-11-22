@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>超级马力欧 四个玩家</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <link href="./favicon.png" rel="shortcut icon">
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="./theme-simple.css">
+</head>
+<body>
+  <nav>
+    <a>超级马力欧 四个玩家 </a>
+    <a href="#/">首页 </a>
+    <a href="#/dl">下载 </a>
+    <a href="#/lk">相关链接 </a>
+  </nav>
+  <div id="app"></div>
+  <script>
+  window.$docsify = {
+    loadSidebar: true,
+	subMaxLevel: 4,
+    alias: {
+      '/.*/_sidebar.md': '/_sidebar.md'
+    },
+	search: {
+            maxAge: 86400000,
+            noData: '找不到结果!',
+            paths: 'auto',
+            placeholder: '搜索...',
+        },
+  }
+  </script>
+  <script src="./docsify.min.js"></script>
+  <script src="./search.js"></script>
+  <script src="./zoom-image.min.js"></script>
+</body>
+</html>
