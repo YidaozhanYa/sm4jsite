@@ -4,6 +4,8 @@
 
 SM4J 由 4JTeam工作室的 carlosXDjav 和 SWinterG 等人制作。
 
+要想浏览本站，请看左侧的菜单栏。
+
 ------
 
 <img src="./c1/1.png" alt="1" style="zoom:25%;" />
