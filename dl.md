@@ -22,7 +22,7 @@
 
 由于原版SM4J出现了部分甚至全部“社区关卡”打不开的问题，特此提供修复版下载。
 
-[修复版 电脑版 2.0.3](https://sydzy.lanzoux.com/iiOgohthuzi)      [修复版 安卓版 2.0.3](https://sydzy.lanzoux.com/inWbjhthrza)
+**[修复版 电脑版 2.0.3](https://sydzy.lanzoux.com/iiOgohthuzi)      [修复版 安卓版 2.0.3](https://sydzy.lanzoux.com/inWbjhthrza)**
 
 ------
 
