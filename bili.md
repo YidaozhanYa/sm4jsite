@@ -10,6 +10,18 @@
 
 ------
 
+#### Super Mario 4 Jugadores部分介绍
+
+**此为群内群主的视频教程整合。**
+
+UP：[QY皮卡言](https://space.bilibili.com/501699358)（SM4J QQ交流群群主）
+
+视频链接：https://www.bilibili.com/video/BV1Hy4y1q7Pm
+
+<iframe src="//player.bilibili.com/player.html?aid=800422753&bvid=BV1Hy4y1q7Pm&cid=260380707&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+------
+
 #### 如何上传/下载地图
 
 UP：[彩色马里奥](https://space.bilibili.com/399061775)
