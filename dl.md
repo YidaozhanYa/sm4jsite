@@ -20,9 +20,9 @@
 
 [官方原版 电脑版 2.0.3](https://sydzy.lanzoux.com/i7BW9hthr2h)      [官方原版 安卓版 2.0.3](https://sydzy.lanzoux.com/iS6hnhthpyh)
 
-由于原版SM4J出现了部分甚至全部“社区关卡”打不开的问题，特此提供修复版下载。
+由于原版电脑版SM4J出现了部分甚至全部“社区关卡”打不开的问题，特此提供修复版下载。
 
-**[修复版 电脑版 2.0.3](https://sydzy.lanzoux.com/iiOgohthuzi)      [修复版 安卓版 2.0.3](https://sydzy.lanzoux.com/inWbjhthrza)**
+**[修复版 电脑版 2.0.3](https://sydzy.lanzoux.com/iUF9jjbe10f)** 更新 2020.12.12 修复了试炼之塔进不去的问题
 
 ------
 

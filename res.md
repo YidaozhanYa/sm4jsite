@@ -4,6 +4,6 @@
 
 <font size=4>这是SM4J的官网，详情请看[相关链接](lk)。</font>
 
-<img src="image-20201122163106458.png" alt="image-20201122163106458" style="zoom: 50%;" />
+<img src="https://www.helloimg.com/images/2020/12/06/image-202011221631064583a5082b706331d5f.png" alt="image-20201122163106458" style="zoom: 50%;" />
 
 <font size=4>如果觉得这些不过瘾，还可以加入大神云集的[SM4J的官方Discord交流群](https://discord.gg/jRyEJuc)。</font>
