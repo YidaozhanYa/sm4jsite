@@ -1,9 +1,9 @@
 * [首页](README)
-* [下载SM4J](dl)
-* [相关链接](lk)
-* [关卡材质等资源](res)
-  * [世界](r1)
-  * [材质包](r2)
+* [下载SM4J](docs/dl)
+* [相关链接](docs/lk)
+* [关卡材质等资源](docs/res)
+  * [世界](docs/r1)
+  * [材质包](docs/r2)
 * ---
 * 《从零开始玩转SM4J》
   * [一、序章](chapter/1)
@@ -21,8 +21,8 @@
   * [十三、游戏修改](chapter/13)
   * [附录](chapter/extra)
 * ---
-* [SM4J视频教程](bili)
-* [杂七杂八](easteregg)
-  * [听歌](wyy)
+* [SM4J视频教程](docs/bili)
+* [杂七杂八](docs/easteregg)
+  * [听歌](docs/wyy)
   * [游戏更新日志](chapter/changelog)
   * [游戏制作人员名单](chapter/credits)
