@@ -2,9 +2,15 @@
 
 <font color=#FF0000>Super Mario 4 Jugadores</font>，中文名：<font color=#ff0000>超级马力欧 四个玩家</font>，简称<font color=#ff0000>SM4J</font>，是一款优秀的马力欧同人游戏。在这里你可以玩各种各样精彩的关卡，还可以玩玩小游戏以及和别人一起对战！SM4J还支持自定义材质包和音乐等。这款游戏有好多致敬<font color=#d2691e>SMBX</font>的元素，游戏如其名，这款游戏和SMBX最大的不同就是支持4人一起游玩，可以本地多人，局域网多人，最近还更新了在线多人。
 
-SM4J 由 4JTeam工作室的 carlosXDjav 制作。
+SM4J 由 carlosXDjav 制作。
 
-要想浏览本站，请看左侧的菜单栏。
+要想继续浏览本站，请看左侧的菜单栏。
+
+------
+
+<font size=5>「SM4J新闻」</font>
+
+[2021.1.4 4JTeam解散，SM4J将由carlosXDjav一人独干](docs/news/about_del_4jteam)
 
 ------
 

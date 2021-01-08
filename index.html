@@ -25,19 +25,31 @@
     alias: {
       '/.*/_sidebar.md': '/_sidebar.md'
     },
+    copyCode: {
+            buttonText : '复制到剪贴板',
+            errorText  : '发生错误',
+            successText: '已复制'
+       },
 	search: {
             maxAge: 86400000,
             noData: '找不到结果!',
             paths: 'auto',
-            placeholder: '搜索...',
+            placeholder: '搜索...'
         },
+      autoFooter: {
+    name:      'Yidaozhan Ya',
+    copyYear:  '2020-2021',
+    url:       'https://space.bilibili.com/485832788'
+  },
   }
   </script>
   <script src="./scripts/docsify.min.js"></script>
-  <script src="./scripts/search.js"></script>
-  <link rel="stylesheet" href="./scripts/gitalk.css">
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
 <script src="./scripts/gitalk.min.js"></script>
 <script src="./scripts/gitalk.docs.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+<script src="https://cdn.jsdelivr.net/npm/@markbattistella/docsify-sidebarfooter@latest"></script>
 <script>
   const gitalk = new Gitalk({
     clientID: 'c6303d71131cfae566d1',

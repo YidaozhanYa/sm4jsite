@@ -4,6 +4,7 @@
 * [关卡材质等资源](docs/res)
   * [世界](docs/r1)
   * [材质包](docs/r2)
+* [SM4J新闻](docs/news_index)
 * ---
 * 《从零开始玩转SM4J》
   * [一、序章](chapter/1)
