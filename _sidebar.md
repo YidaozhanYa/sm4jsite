@@ -4,7 +4,9 @@
 * [关卡材质等资源](docs/res)
   * [世界](docs/r1)
   * [材质包](docs/r2)
+  * [活动关卡](docs/r3)
 * [SM4J新闻](docs/news_index)
+* [4J工具箱](//github.com/YidaozhanYa/4J_Tools/blob/main/README.md)
 * ---
 * 《从零开始玩转SM4J》
   * [一、序章](chapter/1)

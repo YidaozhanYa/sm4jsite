@@ -10,7 +10,7 @@ SM4J 由 carlosXDjav 制作。
 
 <font size=5>「SM4J新闻」</font>
 
-[2021.1.4 4JTeam解散，SM4J将由carlosXDjav一人独干](docs/news/about_del_4jteam)
+[2021.1.11 2.0.4预告发布](https://www.bilibili.com/video/BV1u54y147HS)
 
 ------
 
@@ -24,6 +24,8 @@ SM4J 由 carlosXDjav 制作。
 
 除此之外，也欢迎来[SM4J交流群 543369123](https://jq.qq.com/?_wv=1027&k=Go26XtOJ)看看（雾）
 
+------
 
+2020-2021 是一刀斩吖
 
-2020 是一刀斩吖
+Powered By Docsify
