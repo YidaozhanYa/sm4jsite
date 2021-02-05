@@ -10,7 +10,7 @@ SM4J 由 carlosXDjav 制作。
 
 <font size=5>「SM4J新闻」</font>
 
-[2021.1.11 2.0.4预告发布](https://www.bilibili.com/video/BV1u54y147HS)
+[SM4J 2.0.4 发布](docs/news/204_descargar)
 
 ------
 
