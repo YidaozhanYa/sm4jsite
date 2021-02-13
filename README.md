@@ -1,8 +1,8 @@
 <img src="https://www.helloimg.com/images/2020/12/06/header80e022c1f3e83337.webp" style="zoom:100%;" />
 
-<font color=#FF0000>Super Mario 4 Jugadores</font>，中文名：<font color=#ff0000>超级马力欧 四个玩家</font>，简称<font color=#ff0000>SM4J</font>，是一款优秀的马力欧同人游戏。在这里你可以玩各种各样精彩的关卡，还可以玩玩小游戏以及和别人一起对战！SM4J还支持自定义材质包和音乐等。这款游戏有好多致敬<font color=#d2691e>SMBX</font>的元素，游戏如其名，这款游戏和SMBX最大的不同就是支持4人一起游玩，可以本地多人，局域网多人，最近还更新了在线多人。
+<font color=#FF0000>Super Mario 4 Jugadores</font>，中文名：<font color=#ff0000>超级马力欧 四个玩家</font>，简称<font color=#ff0000>SM4J</font>，是一款优秀的马力欧同人游戏。在这里你可以玩各种各样精彩的关卡，还可以玩玩小游戏以及和别人一起对战！SM4J也有高自由度的编辑器，可以自己创作你的关卡，还支持自定义材质包和音乐等。这款游戏有好多致敬<font color=#d2691e>SMBX</font>的元素，游戏如其名，这款游戏和SMBX最大的不同就是支持4人一起游玩，可以本地多人，局域网多人，最近还更新了在线多人以及噩梦模式。
 
-SM4J 由 carlosXDjav 制作。
+SM4J 由 carlosXDjav 和他的团队制作。
 
 要想继续浏览本站，请看左侧的菜单栏。
 
@@ -10,7 +10,7 @@ SM4J 由 carlosXDjav 制作。
 
 <font size=5>「SM4J新闻」</font>
 
-[SM4J 2.0.4 发布](docs/news/204_descargar)
+[2.0.5 Fix 发布，SM4J团队重新成立。](docs/news/205)
 
 ------
 
@@ -26,6 +26,6 @@ SM4J 由 carlosXDjav 制作。
 
 ------
 
-2020-2021 是一刀斩吖
+2020-2021 是一刀斩哒
 
 Powered By Docsify

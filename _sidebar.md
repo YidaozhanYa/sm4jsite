@@ -17,12 +17,14 @@
   * [六、小游戏模式](chapter/6)
   * [七、材质包](chapter/7)
   * [八、世界编辑器](chapter/8)
-  * [九、编辑器进阶](chapter/9)
-  * [十、进阶动作](chapter/10)
-  * [十一、自定义道具](chapter/11)
-  * [十二、自定义音乐](chapter/12)
-  * [十三、游戏修改](chapter/13)
+  * ~~[九、编辑器进阶](chapter/9)~~
+  * ~~[十、进阶动作](chapter/10)~~
+  * ~~[十一、自定义道具](chapter/11)~~
+  * ~~[十二、自定义音乐](chapter/12)~~
+  * ~~[十三、游戏修改](chapter/13)~~
+  * [十四、自定义敌怪](chapter/custom_enemy)
   * [附录](chapter/extra)
+  * [道具图鉴](docs/tj)
 * ---
 * [SM4J视频教程](docs/bili)
 * [杂七杂八](docs/easteregg)

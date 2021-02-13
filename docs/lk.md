@@ -10,6 +10,10 @@ SM4J官网资源区
 
 [下载关卡](https://carlosxdjavgames.altervista.org/wp-content/niveles.php) - [下载材质包](https://carlosxdjavgames.altervista.org/wp-content/texturas_extra/texturas.php) - [下载世界包](https://carlosxdjavgames.altervista.org/wp-content/mundos_extra/)
 
+SM4J官网资源区——镜像站
+
+[下载关卡](https://cxdj.sydzy.ga/niveles.php) - [下载材质包](https://cxdj.sydzy.ga/texturas_extra/texturas.php) - [下载世界包](https://cxdj.sydzy.ga/mundos_extra/)
+
 ------
 
 [官方Discord交流群（西班牙语）](https://discord.gg/jRyEJuc) - [SM4J 非官方交流QQ群（汉语）](https://jq.qq.com/?_wv=1027&k=Go26XtOJ)
